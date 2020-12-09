@@ -18,12 +18,12 @@ avatar: https://avatars0.githubusercontent.com/u/193779?s=400&u=912032268e2e0ee5
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: jonfernq@hawaii.edu
-  facebook: https://www.facebook.com/jon.fernquest/
+  facebook: jon.fernquest/
   github: jonfernq
-  linkedin: https://www.linkedin.com/in/jon-fernquest-741814200/
+  linkedin: jon-fernquest-741814200/
   rss: # just type anything here for a working RSS icon
   twitter: FernquestJon
-  stackoverflow: https://stackoverflow.com/users/14753378/jon-fernquest
+  stackoverflow: users/14753378/jon-fernquest
   youtube: # channel/UCpVoXqxxmwtQSaDgsYXhn7A
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
