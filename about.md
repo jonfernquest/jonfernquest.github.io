@@ -2,14 +2,27 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+## About
 
-### More Information
+### This project and site provides computational resources 
+for the Sanskrit student and scholar.   
 
-A place to include any other types of information that you'd like to include about yourself.
+Scripts in the Python programming language are provided that 
+data mine Sanskrit dictionaries, grammars and texts 
+data-munging and integrating them into a form that helps the student and scholar.
+
+This project and site provides computational resources 
+for the Sanskrit student and scholar.   
+
+Scripts in the Python programming language allow the mining 
+of Sanskrit dictionaries, grammars and texts and other works,
+reformatting and integrating them into a form that helps with 
+the translation of Sanskrit texts by the the student and scholar.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jonfernq@hawaii.edu](mailto:jonfernq@hawaii.edu)
