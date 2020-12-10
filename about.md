@@ -5,8 +5,6 @@ permalink: /about/
 published: true
 ---
 
-## About
-
 This project and site provides computational resources 
 for the Sanskrit student and scholar.   
 
