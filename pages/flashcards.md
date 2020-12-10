@@ -12,10 +12,10 @@ The automatic generation of flashcard sets from various sources aims to explore 
   - Grouped together into semantic fields in a thesaurus-like fashion, 
   - Graded by difficulty
   - Words presented in different degrees of grammatical wholeness:
-  - From the raw verbal root, 
-  - To stems of various verbal and noun forms, 
-  - To stems in strengthened or weakened form 
-  - To fully inflected stems. 
+    - From the raw verbal root, 
+    - To stems of various verbal and noun forms, 
+    - To stems in strengthened or weakened form 
+    - To fully inflected stems. 
 
 Although it requires additional human processing and consultation of commentaries analysis and breaking apart of noun and verb compounds (vigraha) is another aim of these flashcards. Here is a sample of a variety of ongoing computer-generated flashcard set experiments with Python:
 
