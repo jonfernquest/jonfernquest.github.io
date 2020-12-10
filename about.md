@@ -7,7 +7,7 @@ published: true
 
 ## About
 
-### This project and site provides computational resources 
+This project and site provides computational resources 
 for the Sanskrit student and scholar.   
 
 Scripts in the Python programming language are provided that 
