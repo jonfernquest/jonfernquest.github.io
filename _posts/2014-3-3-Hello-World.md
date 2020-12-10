@@ -4,6 +4,7 @@ title: Sanskrit Self-Learning
 published: true
 ---
 
+Sanskrit autonomous elearning (or learning Sanskrit by oneself) with the aid of digital resources has multiple dimensions: 
 
 ### Sanskrit Interlinear Translation Generator
 This part of the project integrates all the lexical and grammatical information that a student
@@ -27,7 +28,6 @@ with grammar flashcards that can be uploaded into a flashcard app.
 This part of the project displays grammar flashcards with a selection of different sets to choose from.
 It also has features such as repetition of flashcards at an interval based on self-assessment of 
 mastery of a particular vocabulary item.
-
 
 ### Sanskrit Interlinear Translation with Integrated Flashcards
 This part of the project displays stanza by stanza a Sanskrit interlinear translation, allowing the student to practice toe vocabulary and grammar of the stanza with flashcards. 
